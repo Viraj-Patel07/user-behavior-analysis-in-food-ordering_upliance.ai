@@ -17,7 +17,6 @@ This project analyzed the relationship between cooking sessions, user demographi
     *   Distribution Plot (Session Ratings)
     *   Pie Chart (Favorite Meals)
     *   Heatmap (Dish Popularity by Meal Type)
-    *   Time Series Plot (Order Trend)
     *   Box Plot (Session Duration by Meal Type)
     *   Folium Map (Geographical Distribution with location details)
 
